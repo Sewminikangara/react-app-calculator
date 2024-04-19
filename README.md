@@ -1,2 +1,2 @@
-# react app calculator
+# calculator app react
  

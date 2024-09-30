@@ -5,10 +5,10 @@ This is a simple calculator application built using React. The calculator perfor
 
 
 # Features
-Perform basic calculations (addition, subtraction, multiplication, division)
-Clear the input to reset the calculator
-Responsive design for mobile and desktop views
-Display current input and result in a user-friendly interface
+01-Perform basic calculations (addition, subtraction, multiplication, division)
+02-Clear the input to reset the calculator
+03-Responsive design for mobile and desktop views
+04-Display current input and result in a user-friendly interface
 
 # Technologies Used
 React,
@@ -17,6 +17,6 @@ HTML5,
 CSS3
 
 # Usage
-Use the number and operator buttons to perform calculations.
-Press "C" or "AC" to clear the current input.
-The result will be displayed in the output section.
+1.Use the number and operator buttons to perform calculations.
+2.Press "C" or "AC" to clear the current input.
+3.The result will be displayed in the output section.

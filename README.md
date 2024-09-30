@@ -11,9 +11,9 @@ Responsive design for mobile and desktop views
 Display current input and result in a user-friendly interface
 
 # Technologies Used
-React
-JavaScript
-HTML5
+React,
+JavaScript,
+HTML5,
 CSS3
 
 # Usage
